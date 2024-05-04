@@ -7,9 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "shivaydv": "./index.js"
+    "shivaydv": "index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Shiva Yadav",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivaydv/intro-npm-pakage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shivaydv/intro-npm-pakage/issues"
+  },
+  "homepage": "https://github.com/shivaydv/intro-npm-pakage#readme"
 }
