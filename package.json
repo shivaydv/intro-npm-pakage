@@ -1,0 +1,15 @@
+{
+  "name": "shivaydv",
+  "version": "1.0.0",
+  "description": "Log the details of shiva in console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "shivaydv": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
