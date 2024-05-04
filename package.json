@@ -1,6 +1,6 @@
 {
   "name": "shivaydv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Log the details of shiva in console",
   "main": "index.js",
   "scripts": {
